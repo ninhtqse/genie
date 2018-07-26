@@ -1,11 +1,11 @@
 <?php
 
-namespace Optimus\Genie;
+namespace Phuongtt\Genie;
 
 use Illuminate\Database\DatabaseManager;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Collection;
-use Optimus\Bruno\EloquentBuilderTrait;
+use Phuongtt\Bruno\EloquentBuilderTrait;
 
 abstract class Repository
 {

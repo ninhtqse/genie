@@ -1,13 +1,13 @@
 {
-    "name": "optimus/genie",
+    "name": "phuongtt/genie",
     "autoload": {
         "psr-4": {
-            "Optimus\\Genie\\": "src/"
+            "Phuongtt\\Genie\\": "src/"
         }
     },
     "require": {
         "illuminate/database": ">=4.0",
-        "optimus/bruno": "~3.0"
+        "phuongtt/bruno": "~3.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",

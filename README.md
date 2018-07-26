@@ -20,13 +20,13 @@ Dedicated to the World's best (and only) Genie in a bottle. [Congrats on the fre
 For Laravel 5.4 and above
 
 ```bash
-composer require optimus/genie ~2.0
+composer require phuongtt/genie ~2.0
 ```
 
 For Laravel 5.3 and below
 
 ```bash
-composer require optimus/genie ~1.0
+composer require phuongtt/genie ~1.0
 ```
 
 ## Implementation
@@ -39,7 +39,7 @@ The examples will use a hypothetical Eloquent model named `User`.
 namespace App\Repositories;
 
 use App\Models\User;
-use Optimus\Genie\Repository;
+use Phuongtt\Genie\Repository;
 
 class UserRepository extends Repository
 {
@@ -52,7 +52,7 @@ class UserRepository extends Repository
 
 ## Options
 
-Genie is already integrated with [Optimus\Bruno](https://github.com/esbenp/bruno).
+Genie is already integrated with [Phuongtt\Bruno](https://github.com/esbenp/bruno).
 See Bruno documentation for more information.
 The `$options` key given by all get-methods takes the following format:
 
