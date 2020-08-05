@@ -1,24 +1,17 @@
 {
-    "name": "phuongtt/genie",
+    "name": "ninhtqse/genie",
     "autoload": {
         "psr-4": {
-            "Phuongtt\\Genie\\": "src/"
+            "Ninhtqse\\Genie\\": "src/"
         }
     },
     "require": {
         "illuminate/database": ">=4.0",
-        "phuongtt/bruno": "~3.0"
+        "ninhtqse/bruno": "~3.0"
     },
     "require-dev": {
-        "mockery/mockery": "0.9.*",
-        "phpunit/phpunit": "~4.7",
         "satooshi/php-coveralls": "dev-master@dev"
     },
-    "autoload-dev": {
-		"files": [
-			"tests/TestCase.php"
-		]
-	},
     "minimum-stability": "dev",
     "prefer-stable": true,
     "license": "MIT"
