@@ -18,7 +18,7 @@ Dedicated to the World's best (and only) Genie in a bottle. [Congrats on the fre
 ## Installation
 
 ```bash
-composer require ninhtq/genie:dev-master
+composer require ninhtqse/genie:dev-master
 
 
 ## Implementation
