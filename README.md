@@ -17,17 +17,9 @@ Dedicated to the World's best (and only) Genie in a bottle. [Congrats on the fre
 
 ## Installation
 
-For Laravel 5.4 and above
-
 ```bash
-composer require phuongtt/genie ~2.0
-```
+composer require ninhtq/genie:dev-master
 
-For Laravel 5.3 and below
-
-```bash
-composer require phuongtt/genie ~1.0
-```
 
 ## Implementation
 
@@ -127,12 +119,6 @@ please send a patch via pull request.
 [PSR-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 [PSR-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
 [PSR-4]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md
-
-## Testing
-
-``` bash
-$ phpunit
-```
 
 ## Contributing
 
