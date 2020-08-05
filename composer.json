@@ -7,7 +7,7 @@
     },
     "require": {
         "laravel/framework": ">=5.4",
-        "ninhtqse/bruno": "~3.0"
+        "ninhtqse/bruno": "@dev"
     },
     "require-dev": {
         "satooshi/php-coveralls": "dev-master@dev"
