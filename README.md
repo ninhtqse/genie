@@ -31,7 +31,7 @@ The examples will use a hypothetical Eloquent model named `User`.
 namespace App\Repositories;
 
 use App\Models\User;
-use Phuongtt\Genie\Repository;
+use Ninhtqse\Genie\Repository;
 
 class UserRepository extends Repository
 {
@@ -44,7 +44,7 @@ class UserRepository extends Repository
 
 ## Options
 
-Genie is already integrated with [Phuongtt\Bruno](https://github.com/esbenp/bruno).
+Genie is already integrated with [Ninhtqse\Bruno](https://github.com/esbenp/bruno).
 See Bruno documentation for more information.
 The `$options` key given by all get-methods takes the following format:
 
