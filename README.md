@@ -147,7 +147,7 @@ lớp bền vững của bạn từ mã doanh nghiệp của bạn.
 
 **Dành riêng cho Genie**
 
-Dành riêng cho Thần đèn tốt nhất (và duy nhất) trên thế giới trong chai. [Chúc mừng sự tự do, người đàn ông của tôi](https://www.youtube.com/watch?v=SUfP6IGQD00).
+Dành riêng cho Thần đèn[Chúc mừng sự tự do](https://www.youtube.com/watch?v=SUfP6IGQD00).
 
 ## Cài đặt
 
@@ -179,7 +179,7 @@ class UserRepository extends Repository
 ## Tùy chọn
 
 Genie đã được tích hợp với [Ninhtqse\Bruno](https://github.com/ninhtqse/bruno).
-See Bruno tài liệu để biết thêm thông tin.
+Xem tài liệu để biết thêm thông tin.
 Biến `$options` được cung cấp bởi tất cả các phương thức get có định dạng sau:
 
 Parameter | Kiểu dữ liệu | Mô tả
@@ -250,8 +250,8 @@ Xóa bản ghi của `User` theo một mảng các điều kiện được truy�
 
 ## Tiêu chuẩn
 
-This package is compliant with [PSR-1], [PSR-2] and [PSR-4]. If you notice compliance oversights,
-please send a patch via pull request.
+Gói này tuân thủ [PSR-1], [PSR-2] và [PSR-4]. Nếu bạn nhận thấy giám sát tuân thủ,
+xin vui lòng gửi một bản vá thông qua yêu cầu kéo.
 
 [PSR-1]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md
 [PSR-2]: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
