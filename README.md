@@ -131,6 +131,7 @@ Please see [CONTRIBUTING](https://github.com/esbenp/genie/blob/master/CONTRIBUTI
 
 The MIT License (MIT). Please see [License File](https://github.com/esbenp/genie/blob/master/LICENSE) for more information.
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Genie VIETNAM
 
