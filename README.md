@@ -132,7 +132,7 @@ Please see [CONTRIBUTING](https://github.com/esbenp/genie/blob/master/CONTRIBUTI
 The MIT License (MIT). Please see [License File](https://github.com/esbenp/genie/blob/master/LICENSE) for more information.
 
 
-# Genie VietNames
+# Genie VIETNAM
 
 [![Latest Version](https://img.shields.io/github/release/esbenp/genie.svg?style=flat-square)](https://github.com/esbenp/genie/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -147,7 +147,7 @@ lớp bền vững của bạn từ mã doanh nghiệp của bạn.
 
 **Dành riêng cho Genie**
 
-Dành riêng cho Thần đèn[Chúc mừng sự tự do](https://www.youtube.com/watch?v=SUfP6IGQD00).
+Dành riêng cho Thần đèn [Chúc mừng sự tự do](https://www.youtube.com/watch?v=SUfP6IGQD00).
 
 ## Cài đặt
 
