@@ -18,14 +18,14 @@ Dedicated to the World's best (and only) Genie in a bottle. [Congrats on the fre
 ## Installation
 
 ```bash
-composer require ninhtqse/genie:dev-master
-
+composer require ninhtqse/genie
+```
 
 ## Implementation
 
 The examples will use a hypothetical Eloquent model named `User`.
 
-```php
+```
 <?php
 
 namespace App\Repositories;
@@ -55,6 +55,9 @@ sort | array | Array of sorting rules, e.g. `[['key' => 'username', 'direction' 
 filter_groups | array | See Bruno documentation
 limit | int | Rows per page
 page | int | The page to start from (use with limit)
+fields | array | Get the fields according to the parameters passed.
+skip | integer | The starting position is in the database
+take | integer | Number of records taken
 
 *Note:* If you use the controller of Bruno it will automatically parse the request's
 query string into the correct format.
